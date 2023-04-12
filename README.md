@@ -1,4 +1,4 @@
-# github-actions-quickstart
+# github-actions-demo
 
 GitHub Actions の機能を試す用
 
